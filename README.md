@@ -26,10 +26,10 @@
     <a href="https://docs.oracle.com/en/java/javase/17/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" alt="java" width="50" height="50"/> </a>
   <hr>
  
- <div align="left">
+ <div align="center">
   <a href="https://github.com/Rian-Furtado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rian-Furtado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-Furtado&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rian-Furtado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-Furtado&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
