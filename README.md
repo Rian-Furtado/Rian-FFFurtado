@@ -1,18 +1,24 @@
-##     <h1 align="center"> <b> Ei, seja bem-vindo(a) ao meu perfil, não esqueça de me seguir em outras redes !  </h1>
-<hr>   
-<div align="center">
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=Rian-Furtado&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucssilva&layout=compact&langs_count=7&theme=moltack"/> 
-</div> 
+<h3 align="center">
+  Bem-vindo ao perfil de Rian Furtado!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 
-<div align="center">
-<a href="https://www.linkedin.com/in/rian-furtado-1611601bb/">
-<img src="https://scontent-for1-1.xx.fbcdn.net/v/t39.30808-6/273932819_4794281674022184_8889026136057227215_n.jpg?stp=cp0_dst-jpg&_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEHqxR0-iRz68u9ZUrM1MU9KHrB_TyBUeAoesH9PIFR4Madfr78AzBYYtBZ9ojMXozlR0pANp9lKao_mQxOFGFM&_nc_ohc=rX1hrS5GXaoAX-gWJeG&_nc_oc=AQmDRkZosRAWw064vo57cg5BMN7OB5cHMkHA8QfYPKDYw7bLTXdjCtHF085Kh6viHYESRLnGLtBaRepeynT5cjsc&_nc_ht=scontent-for1-1.xx&oh=00_AT-KKePR0Vp_u5ui8P5quSeFWC7wk4IFR0YBO2daiCiWlQ&oe=6212AAA1"></a> 
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=+++++++++++++++++Desenvolvedor++JAVA++-+Junior++!"></a>
+</p>
 
-</div>
 
-    
+<!-- Social Midia -->
 
+<div align="center"> 
+  <a href="https://instagram.com/rian_ffurtado" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rianoliveirafurtado@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rian-ffurtado-1611601bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+ </div>
+ 
+ <hr>
 
 
