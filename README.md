@@ -17,7 +17,7 @@
 </div>
 </div>
   
-  <h2 align="left">:hammer_and_wrench: Tecnologias e Ferramentas utilizadas:</h2>
+  <h2 align="left">🖥️Tecnologias e Ferramentas utilizadas</h2>
 <p align="left">
   <img align="center" alt="Rafa-Js" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Rafa-CSS" height="30" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -26,7 +26,7 @@
  
   
   
-  <h2 align="left">:hammer_and_wrench: Entre em contato! :</h2>
+  <h2 align="left"> 📱Entre em contato !</h2>
 <div align="left"> 
   
   <a href="https://instagram.com/rian_ffurtado" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
