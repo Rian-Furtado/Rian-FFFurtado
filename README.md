@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<h2 align="center">
+<p>
 Olá! Meu nome é Rian e sou um desenvolvedor backend em treinamento. Atualmente, estou estudando Java, Spring Boot e também estou dando os primeiros passos em JavaScript e React.
 
 Desde cedo, sempre fui fascinado por tecnologia e pela possibilidade de criar coisas incríveis com código. Por isso, decidi me tornar um desenvolvedor e comecei a estudar por conta própria.
@@ -17,15 +17,9 @@ Agradeço a oportunidade de apresentar um pouco sobre mim e espero poder contrib
 Atenciosamente,
 Rian
 
-</h2>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2322779C&size=25&lines=Desenvolvedor+JAVA+-+J%C3%BAnior+!;Sempre+aprendendo+algo+novo+!"></a>
-</p>
 
 <div>
-  <div align="center">
+  <div align="space-between">
   <a href="https://github.com/Rian-Furtado">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rian-Furtado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-Furtado&layout=compact&langs_count=7&theme=dracula"/>
