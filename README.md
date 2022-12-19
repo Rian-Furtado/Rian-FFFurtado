@@ -3,14 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<p>
-Olá! Meu nome é Rian e sou um desenvolvedor backend em treinamento. Atualmente, estou estudando Java, Spring Boot e também estou dando os primeiros passos em JavaScript e React.
-
-Desde cedo, sempre fui fascinado por tecnologia e pela possibilidade de criar coisas incríveis com código. Por isso, decidi me tornar um desenvolvedor e comecei a estudar por conta própria.
-
-Em meu tempo livre, gosto de participar de hackathons e eventos de tecnologia para poder colocar em prática o que aprendi e também conhecer outros profissionais da área.
-
-No meu github, você pode encontrar alguns projetos que já desenvolvi e também alguns exercícios que fiz durante o meu aprendizado. Espero que gostem!
+<p style="left">
+Olá! Meu nome é Rian e sou um desenvolvedor backend em treinamento. Atualmente, estou estudando Java, Spring Boot e também estou dando os primeiros passos em JavaScript e React. Desde cedo, sempre fui fascinado por tecnologia e pela possibilidade de criar coisas incríveis com código. Por isso, decidi me tornar um desenvolvedor e comecei a estudar por conta própria. Em meu tempo livre, gosto de participar de hackathons e eventos de tecnologia para poder colocar em prática o que aprendi e também conhecer outros profissionais da área. No meu github, você pode encontrar alguns projetos que já desenvolvi e também alguns exercícios que fiz durante o meu aprendizado. Espero que gostem!
 
 Agradeço a oportunidade de apresentar um pouco sobre mim e espero poder contribuir com a comunidade de desenvolvedores em algum momento.
 
@@ -19,7 +13,7 @@ Rian
 
 
 <div>
-  <div align="space-between">
+  <div align="center" padding=100>
   <a href="https://github.com/Rian-Furtado">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rian-Furtado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-Furtado&layout=compact&langs_count=7&theme=dracula"/>
