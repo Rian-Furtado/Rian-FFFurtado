@@ -3,14 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<p style="left">
-Olá! Meu nome é Rian e sou um desenvolvedor backend em treinamento. Atualmente, estou estudando Java, Spring Boot e também estou dando os primeiros passos em JavaScript e React.Em meu tempo livre, gosto de criar jogos 2D para poder colocar em prática o que aprendi e também conhecer outros ramos da programação. No meu github, você pode encontrar alguns projetos que já desenvolvi e também alguns exercícios que fiz durante o meu aprendizado. Espero que gostem!
-
-Agradeço a oportunidade de apresentar um pouco sobre mim e espero poder contribuir com a comunidade de desenvolvedores em algum momento.
-
-Atenciosamente,
-Rian
-
 
 <div>
   <div align="center" padding=100>
